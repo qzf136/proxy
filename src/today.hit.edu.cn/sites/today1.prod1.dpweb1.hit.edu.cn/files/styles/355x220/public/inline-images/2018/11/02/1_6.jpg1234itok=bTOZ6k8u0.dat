@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Date: Fri, 02 Nov 2018 06:02:32 GMT
+Server: Apache/2.4.18 (Ubuntu)
+ETag: "11e8d-579a842b654ea"
+X-Varnish: 143868008
+Age: 0
+Via: 1.1 varnish-v4
+X-Varnish-Cache: MISS
+Connection: keep-alive
+
